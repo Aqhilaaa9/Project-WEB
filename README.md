@@ -24,13 +24,13 @@ SETARA adalah website yang dibuat
 - penambahan daftar makanan
   
 ## Teknologi
-1. HTML
-2. CSS
-3. Java Script
-4. PHP
+- HTML
+- CSS
+- Java Script
+- PHP
 
 ## User
-1. Admin
-2. Pembeli
-3. Penjual(Kasir)
+- Admin
+- Pembeli
+- Penjual(Kasir)
 
