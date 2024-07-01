@@ -1,5 +1,36 @@
 # Project-WEB
+Memanjahkan Lidah Dengan Cita Rasa Indonesia
 
-**Latar Belakang**  
-Dampak dari masih kurangnya sarana digital dalam mendukung pemasaran di beberapa restoran konvensional adalah terbatasnya jangkauan dan penyebaran informasi mengenai produk dan layanan yang ditawarkan oleh restoran tersebut. Hal ini dapat menghambat potensi pertumbuhan bisnis restoran dan membuat mereka kehilangan peluang untuk menarik pelanggan baru yang mungkin mencari produk atau layanan serupa secara online. Oleh karena itu, penting bagi restoran konvensional untuk mulai mempertimbangkan dan memanfaatkan teknologi digital sebagai sarana pemasaran mereka agar dapat bersaing dan memperluas jangkauan bisnis mereka di era digital ini.
+## Deskripsi  
+SETARA adalah website yang dibuat 
+
+# Main Menu
+## Pembeli
+- login 
+- daftar makanan 
+- daftar tepat duduk 
+- payment
+  
+## Penjual
+- login
+- daftar makanan 
+- daftar pembelian
+- riwayat penjualan
+  
+## Admin 
+- login
+- laporan keuangan 
+- Daftar User
+- penambahan daftar makanan
+  
+## Teknologi
+1. HTML
+2. CSS
+3. Java Script
+4. PHP
+
+## User
+1. Admin
+2. Pembeli
+3. Penjual(Kasir)
 
